@@ -64,5 +64,4 @@ By the end of this project, you should be able to:
 
 You can run each script using node. For example, to run 0-constants.js, use the following command:
 
-    ```bash
     node 0-constants.js
